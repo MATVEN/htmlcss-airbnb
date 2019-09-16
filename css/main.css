@@ -20,11 +20,18 @@
   position: relative;
 }
 
+/*city img*/
 .city.rome{
   background: url("../img/roma1.jpg");
   background-size:cover;
   background-repeat: no-repeat;
 }
+
+.city.copenaghen{
+  background: url("../img/copenaghen.jpg");
+  background-size:cover;
+  background-repeat: no-repeat;
+  }
 
 .opacity{
   background-color: rgba(0, 0, 0, 0.4);
