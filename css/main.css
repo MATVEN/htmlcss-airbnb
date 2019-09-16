@@ -7,11 +7,19 @@
 
 /* container style*/
 .container{
-
+  background-color: white;
+  height: 100vh;
 }
 
 /* city style */
 .city{
+  background: url("../img/roma1.jpg");
+  background-size:cover;
+  background-repeat: no-repeat;
+  width: 80%;
+  height: 100%;
+  margin: 0 auto;
+  border: 10px solid black;
 
 }
 
