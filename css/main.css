@@ -33,6 +33,12 @@
   background-repeat: no-repeat;
   }
 
+  .city.tokyo{
+    background: url("../img/tokyo.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    }
+
 .opacity{
   background-color: rgba(0, 0, 0, 0.4);
   position: absolute;
